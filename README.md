@@ -2,7 +2,7 @@
 
 Welcome to our project updates section! Here you can find all the latest developments and updates on our project. We'll be keeping this section up-to-date with all the new features, bug fixes, and other important changes that we make to the project. 
 
-## Updates
+## Upcoming Updates
 1. Fronsky Spigot Framework 1.0.8
 2. Prefix 1.2.0
 3. Vanish (1.1.3 or 1.2.0, depending on the update majority)
